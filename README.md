@@ -164,32 +164,5 @@ BloodBridge was developed as an exploration of how software, location intelligen
 
 ---
 
-## 🤝 Contributing
-
-Ideas, feedback, bug reports, and contributions are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Test your changes.
-5. Open a pull request describing the improvement.
 
 ---
-
-## ⚠️ Disclaimer
-
-BloodBridge is a software prototype for demonstration and educational purposes. It does not replace professional medical judgment, blood-bank verification procedures, compatibility testing, or established emergency medical protocols.
-
-Do not use this prototype as the sole basis for clinical decisions or real-world blood allocation.
-
----
-
-## 👩‍💻 Author
-
-**Project:** BloodBridge
-**Category:** Healthcare Technology / Emergency Response / Decision Support
-**Built for:** Hackathon project
-
----
-
-*Connecting resources. Supporting decisions. Helping emergency teams coordinate faster.*
