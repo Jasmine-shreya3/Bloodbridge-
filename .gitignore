@@ -1,0 +1,8 @@
+pycache/
+*.py[cod]
+.env
+.venv/
+venv/
+bloodbridge.db
+instance/
+.DS_Store
